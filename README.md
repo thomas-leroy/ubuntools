@@ -2,8 +2,8 @@
 
 What this repo is :
 
- * a list of tools I use everyday
- * a list of tools that works in the real everyday life
+ * a list of softwares I use everyday
+ * a list of softwares that works in the real everyday life
 
 What this repo is not :
 
@@ -20,15 +20,13 @@ What this repo is not :
 
 * Thunderbird
 
-## Subversion
-
-* git
-* tig
 
 ## Terminal
 
 * zsh
 * ohmyzsh
+* git
+* tig
 
 ## Graphic
 
@@ -49,6 +47,10 @@ What this repo is not :
 
 * sublime text 3
 * visual studio code
+
+## Test
+
+* virtual box
 
 ## Arduino dev
 
