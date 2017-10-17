@@ -33,6 +33,8 @@ It's quick, customisable, got nice git GUI, a looooot of extensions, monthly upd
 Run other OS on virtua box to test your projects
 
 ## Graphic
+* Krita (https://krita.org)
+Photoshop like for Ubuntu (wayyyy better than Gimp)
 * shutter (https://doc.ubuntu-fr.org/shutter)
 Screenshot and simple editor tool
 
